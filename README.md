@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @scodlez
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning JavaScript and Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me - complete website for pro league
+- 📫 How to reach me - it's me jambo
 
 <!---
 scodlez/scodlez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
